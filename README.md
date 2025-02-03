@@ -20,8 +20,7 @@ C++ 코드를 통해 움직이는 액터 생성하고 플랫포머 게임 레벨
 ### 개요
 
 - 자연 재해(지진)을 배경으로 한 플랫포머 게임 제작
-- 플레이 영상 유튜브 링크
-https://youtu.be/wgAh1iREOIk?si=HoF-0JpnbnrZrowE
+- [플레이 영상 유튜브 링크](https://youtu.be/wgAh1iREOIk?si=HoF-0JpnbnrZrowE)
 
 ### 구간 설명
 
